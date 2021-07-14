@@ -7,3 +7,4 @@ Step 4: install pygame package with the help of pip.
 Step 5: Then run, that's it…
 
 If you have any doubts, ping me.
+#for more project stay connect with us.
