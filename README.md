@@ -1,4 +1,5 @@
 Hello all, I'm Prajwal with the help of code basics we create this project.
+Required packages : pygame.
 To execute this project:
 Step 1: install any python code executor.
 Step 2: you need to save this program on your computer.
